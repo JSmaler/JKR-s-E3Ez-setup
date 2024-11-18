@@ -2,7 +2,7 @@
 my personal setup for a BTT E3Ez with a CB1 compute unit.
 
 This guide will give you a basic clue of how you may set up the board, though i don't guarantee it'll work.
-you will also find the relevant setup file (printer.cfg) in this repo.
+you will also find the relevant setup file (printer.cfg) in this repo, though the version uploaded here is a bit out of date.
 this repo is mainly for my own use, so please don't expect to much.
 
 # Basic BigTreeTech Manta E3EZ CB1Klipper  setup walkthrough / Guide
